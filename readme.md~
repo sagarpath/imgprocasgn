@@ -1,0 +1,14 @@
+To run the perspective projection (homography) code:
+
+python homography.py pepsi.jpg
+(Pl note that the image coordinates start from top left corner and right/down in positive)
+Enter the corner point coordinates for the original image: [[141,276],[503,276],[503,417],[141,417]]
+Enter the corner point coordinates for the transformed image: [[955,198],[1071,506],[847,504],[717,281]]
+
+To run the zoompivot code: python zoompivot.py lena.jpg
+
+(Pl note that the image coordinates start from top left corner and right/down in positive)
+enter the pivot pixel coordinates: [100,100]
+enter the scale: 3
+
+Done
